@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[SANDRA KONG | PORTFOLIO]]></title>
         <description><![CDATA[SANDRA KONG | PORTFOLIO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sandra-kong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 15:29:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 15:31:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sandra-kong/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is happening ///</p>]]></description>
-            <link>undefined7d575792-e116-4f6b-a1b4-fa493f96e313/index.html</link>
+            <link>https://thegrid.ai/sandra-kong/6f80c032-5cfe-42ec-9757-0527a4a8c57d/index.html</link>
+            <guid isPermaLink="false">6f80c032-5cfe-42ec-9757-0527a4a8c57d</guid>
+            <pubDate>Tue, 26 Jan 2016 15:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is happening ///</p>]]></description>
+            <link>https://thegrid.ai/sandra-kong/7d575792-e116-4f6b-a1b4-fa493f96e313/index.html</link>
             <guid isPermaLink="false">7d575792-e116-4f6b-a1b4-fa493f96e313</guid>
             <pubDate>Tue, 26 Jan 2016 15:29:09 GMT</pubDate>
         </item>
