@@ -1,0 +1,29 @@
+name: SANDRA KONG
+favicon: null
+layout_spectrum: 0.7148003720212728
+typography_spectrum: 0.672884242143482
+title: 'SANDRA KONG | PORTFOLIO'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7735495215747505
+  lightness: 0.16282645030878484
+  saturation: 0.26619760249741375
+  rhythmicContrast: 0.1275041422341019
+purpose: []
